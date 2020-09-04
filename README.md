@@ -9,7 +9,7 @@
 
 本项目现在处于作者Frank本人意愿进行OpenSource，提供源码、UI素材和Windows客户端打包程序发布。
 请查看：
-* [LLKPro17.6.18](./LLKPro17.6.18
+* [LLKPro17.6.18](./LLKPro17.6.18)
 * [UI素材](./UI图标)
 * [Release](./LLKSetup2.0)
 
